@@ -10,6 +10,10 @@ import org.junit.Test;
 
 public class SampleTest {
 
+	/*
+	 * new branch
+	 */
+	
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
